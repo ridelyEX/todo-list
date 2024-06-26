@@ -23,7 +23,7 @@ function handlerAgregar(){
     botondone.onclick=handlerDone;
 
     //agrupacion de elementos
-        divBotonesappaendChild(botondne);
+        divBotonesappaendChild(botondone);
         divInterno.appendChild(span);
         divInterno.appendChild(divBotones);
         li.appendChild(divInterno);
